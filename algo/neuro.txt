@@ -1,0 +1,28 @@
+
+Synapses
+Chemical synapses - connections that share neurotransmitters
+gap junctions - bidirectional electrical impulses that are faster than chemical synapses
+    (in cold blooded brains for instance)
+but lack gain (amplify signal)
+Gap junctions (electrical synapses connected by connexons) are much simpler than their
+chemical counterpart due to their lack of neurotransmitters.
+
+Dendritic computation has many flavors
+If together -> sublinear summation by shunning
+else -> linear summation
+Smoothing, amplification (by addition), and lowering (gap junction, attenuation) of the signal
+
+Confusing(?):
+Dendrites coming out are apical
+Dendrites coming in are basal
+
+temporal summation - makes signal algebraically bigger
+spatial summation - adds all signals (sub or par linear)
+
+Signals also backpropagate, which *may* (still disputed) serve as dendrodentritic
+inhibition, depolarization, ...
+
+Cells also move towards current - electrotaxis/galvanotaxis
+
+Frequently in biology, experiments have multiple hypothesis. Thus, q-values (proportion of type I errors in m tests) are used instead of p (to show significance).
+

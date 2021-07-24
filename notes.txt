@@ -1,0 +1,28 @@
+C. elegans
+https://www.ncbi.nlm.nih.gov/books/NBK20086/
+The mind of a worm
+https://www.wormatlas.org/MoW_built0.92/MoW.html
+
+Self-fertilizing hermaphrodite (both male and female) soil nematodes (parasitic worms). 
+
+The pachytene region (synaptomenal complex?) contains *DTC, mitotic, meiotic
+regions, *primary secondary spermatocytes, *spermatids
+
+Sensory rays
+
+*DTC: Distal Tip Cells, u-shaped trip, function ----
+*PSS: primary is diploid, after meiosis I its haploid (secondary), grown sperm cells
+*Spermatid: Product of mitosis II of spermatocytes.
+
+wormbase:
+https://wormbase.org/species/all/anatomy_term/WBbt:0000100#01--10
+
+anatomy image:
+https://upload.wikimedia.org/wikipedia/commons/4/4b/C_elegans_male.svg
+
+
+
+mysteries (to me):
+    distal tip cells function
+
+
