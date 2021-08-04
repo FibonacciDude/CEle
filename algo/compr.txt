@@ -1,0 +1,43 @@
+
+Compression
+
+Look at technical, historical background
+
+RL Relationships
+    definition rl
+    mathematical assumptions
+    logical assumptions
+    relationship with action - successes and drawbacks
+    redefining the relationship to make compression, not action the star?
+
+Current success
+    is it so clear DRL systems are not somewhat following the principles?
+        muzero, dqn, ...
+            what is the nn doing?
+        classic algos
+            what is being learned?
+
+        example:
+            hierarchical language rnns - (paper)
+
+Limits
+    computational
+    efficiency
+    is it a stepping stone or the endgoal
+    does it have to be bootstrapped, salvaged, or rewritten
+
+What does it do (what is it?):    
+    Common points
+    Inductive definition
+    Can we make this a prior
+    history of priors
+    similarity and difference between those
+
+
+Consequence:
+    How much better would it be to have 'compression' systems (fix)
+    
+
+Challenges
+    How do we specify goals
+

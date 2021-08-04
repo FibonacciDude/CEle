@@ -1,3 +1,72 @@
 add stuff to this repo from notes (and pics)
-complete part of  notes
+complete part of notes
+analysis of circuits - http://wormweb.org/gapfree/
+find properties of network (graph)
+adjancency matrix
+
+how the hell is the science (criticality, synaptic weights, etc) is joined together?
+are they for the same thing??? (dynamics?)
+
+information theory for net and for SIE (https://sci-hub.se/10.1038/nn826)
+https://arxiv.org/abs/1703.00810
+Opening the Black Box of Deep Neural Networks via Information
+variational autoencoders ( to see techniques to extend)
+
+understand information theory and be comfortable with it
+http://www.mit.edu/~6.454/www_fall_2002/shaas/Csiszar.pdf
+
+
+see papers and common mathematical techniques
+IB:
+orig papers
+https://arxiv.org/pdf/1206.5538.pdf
+where is information (also math things): https://arxiv.org/pdf/1905.12213v5.pdf
+adversarial: https://arxiv.org/abs/2103.00381v2
+caveats for IB: https://arxiv.org/pdf/1808.07593v4.pdf
+use IB : https://arxiv.org/pdf/2105.07181v1.pdf
+IB proba: https://arxiv.org/abs/2010.14054v1
+information causal struct: https://arxiv.org/abs/2010.13871v1
+https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html#references
+can we connect that to linear controllers?
+
+fill up information bottleneck method in wikipedia
+On Characterizing the Capacity of Neural Networks using Algebraic Topology?
+                           
+                                         
+https://arxiv.org/abs/1410.3831                                        
+
+ai generating algos - https://arxiv.org/abs/1905.10985
+
+
+c elegans inspired - paper
+small nets:
+https://arxiv.org/pdf/2106.08962v2.pdf
+neuroscience data:
+https://www.quantamagazine.org/biology-confronts-data-complexity-20131007
+
+(self-organized criticalities)
+https://www.quantamagazine.org/toward-a-theory-of-self-organized-criticality-in-the-brain-20140403    
+network criticalities: https://www.frontiersin.org/articles/10.3389/fphys.2012.00163/full
+neuronal avalanches: https://www.jneurosci.org/content/jneuro/23/35/11167.full.pdf
+https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.110.178101
+                        
+                        
+
+find synaptic efficacy/connections using conv (https://www.nature.com/articles/s41598-021-91244-w) or GLMs (https://www.nature.com/articles/s41467-019-12225-2.pdf) 
+
+simple baselines - tictac, etc
+
+learning class
+machines learn hints - mapping of words to constraints? (specific case?)
+PCA learning
+
+compr - can we have variable sized? (look at capsule nets)
+language and representation (meaning) - compression 
+bob coacke, george lakoff
+
+simplify many ideas (cause or symptom?) - 
+attetion is all you need
+mathematica analysis
+
+human robot interaction
 

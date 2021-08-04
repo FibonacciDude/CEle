@@ -1,0 +1,84 @@
+
+Synapses
+Chemical synapses - connections that share neurotransmitters
+gap junctions - bidirectional electrical impulses that are faster than chemical synapses
+    (in cold blooded brains for instance)
+but lack gain (amplify signal)
+Gap junctions (electrical synapses connected by connexons) are much simpler than their
+chemical counterpart due to their lack of neurotransmitters.
+
+In an axon's cellular membrane there is a concentration gradient (if it is selectively permeable to sodium for instance) where sodium and chloride are on the outside while the potassium on the inside. However, this is electro-neutral since they attract *through* the bilayer.
+
+When there is enough ions flowing to depolarize (interior voltage decreases, hyperpolarize is the opposite). The ion channels change the electrochemical gradient (potential) and thus activates an action potential. Once the ions flow in, the
+voltage-gated ion channel/s (first) get activated, letting sodium flow in the membrane which activated the other ion channels, so on and so on... which leads to a chain reaction: all-or-none response. 
+
+Information is thus transmitted by a series of spikes (action potentials) that occur together to form a spike train.
+
+Map neuronal circuit:
+    Quantitative 'weight':
+
+        Efficacy = capacity to influence output:
+
+            -Synaptic Information Efficacy, which measures the mutual information between the presynaptic input and postsynaptic output spike trains
+            (https://sci-hub.se/10.1038/nn826, they find the amount of bits saved by the
+             compression of bits of the postsyn. output using a learned compression model). This,
+            however, must be limited by our knowledge of cellular interactions since the model
+            must account for this background activity.
+
+        Electrical strength = average strength of voltage at post. from pre.:
+            -coupling coefficient is the output/input voltage. This suffers the drawback that the contribution spikes is 
+
+            -delta-L, the percentage change in latency from alone to paired (how much more
+                    would it have taken if the pair was not spiking.
+
+            -Measures of correlation, find the correlation coefficient between pairs, requires
+            several steady/periodic spikes and similar-state firing.
+
+    We can see the cross-correlogram, the average autocorrelations (covariance of the
+        signal of its lagged self) vs lag, and reasonably find the 
+
+Electricity:
+    Electric charge measured in Coulombs (c). 
+    F = k * |q_1 * q_2| / r^2
+    Thus, the force is directly proportional to the magnitude of the charge and inversely
+    proportional to the squared distance.
+    
+    The electric field E = F / q (magnitude of test charge), or k * (Q / r^2)
+
+    A 'capacitor' would then be two plates +/- Q that are parallel to each other and
+    stores electric energy.
+
+    Electrostatic equilibrium implies zero electric field. In a conductor, the electric
+    field inside exists (attraction force) while outside it's not (equilibrium).
+
+    To calculate potential energy we can calculate work = F * d = q * E * d (qed!).
+    delta pot. (potential) = -qEd, V = Delta(pot.) / q = -E * d. The electric potential
+    (previous) is joules / coulombs == voltage = E * d
+
+    Voltage = k * Q / r
+
+    Capacitance = charge / voltage, ratio of electric charge in conductor and voltage
+    measured between them. You need enough 'space' to have a large charge.
+
+    Capacitance = k_c (dielectric) * e_0 * A / d
+
+
+Dendritic computation has many flavors
+If together -> sublinear summation by shunning
+else -> linear summation
+Smoothing, amplification (by addition), and lowering (gap junction, attenuation) of the signal
+
+Confusing(?):
+Dendrites coming out are apical
+Dendrites coming in are basal
+
+temporal summation - makes signal algebraically bigger
+spatial summation - adds all signals (sub or par linear)
+
+Signals also backpropagate, which *may* (still disputed) serve as dendrodendritic (dendrite to dendrite)  inhibition, depolarization, ...
+
+Cells also move towards current - electrotaxis/galvanotaxis
+
+Frequently in biology, experiments have multiple hypothesis. Thus, q-values (proportion of
+        type I errors in m tests) are used instead of p (to show significance).
+

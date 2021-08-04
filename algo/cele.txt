@@ -1,0 +1,8 @@
+
+Neuronal Circuit Policies inspired by C. Elegans
+
+C. Elegans: 302 neurons, ~8000 elec. and chemical synapses. Optimal wiring diagram of
+wiring economy principle. It also exhibits sleep, avoiding osmotic regions, control
+muscles,  
+
+

@@ -1,0 +1,82 @@
+Experiment at https://127.0.0.1:8000/dashboard
+
+Create FPGA-based emulator (verilog?) if necessary
+
+functions:
+    control body
+    interactions (social behavior)
+
+can we apply research done on humans to these
+    -timeless neuron firing
+    -neurotrasmitters
+    -neuronal development
+
+information theory for deep learning <-> schmidhuber
+" " ...                         " <-> testing in c elegans?
+can we then find an 'optimal' network architecture?
+Not morphic but graphic (not wire cost economics)
+
+invertible functions in dl - experiment
+make algorithm that 'looks' at c. elegans' behavior and reproduces the network weights
+
+
+Questions:
+    NCP inspired by C. Elegans
+        Are they robust to adversarial examples (why or why not)
+        Are they generalizable to larger networks
+        What time overhead do we have because of the nonhomogeneity
+        Is the architecture robust to changes (smooth adaptability space)
+        Can we have competing results by some certain type of homogeneity of components
+        Do we understand the implications of small networks (capacity, speed, etc)
+
+        How does it relate to spike neurons in nets (related to binarized nets)
+
+    Biological
+        Can you play the keys at the same time? -? https://www.researchgate.net/publication/258058406_Impaired_Hippocampal_Ripple-Associated_Replay_in_a_Mouse_Model_of_Schizophrenia
+
+        What is the level of abstraction do we need (in the model) for decent behavior controlling (apart from the phenomic dispositions) What classical/interesting experiments, e.g. visual similarity matrix done on mammals/humans and ai systems (haha no visual system), statistical measures of nets (after pruning?), etc, can be transferred to cele.
+        Can we incorporate a visual system, or are the variables receiving (how) somehow the
+        correct or sufficient representation of its environment for its goals?
+        
+Read:
+    on dp
+    zero shot learning - new hot thing, openai/deepmind
+    Hierarchical rl
+    compressed sensing
+    sergey levine papers
+    temporal difference models
+    NAF
+
+
+--
+off-policy does not converge
+thompson sampling
+exploration bonus
+schotastic energy based policies
+
+ddpg
+trpo
+SAC
+self supervised
+supervised meta learning
+temporal convolution
+are cnns invariant to face location?
+paper thing symbolic systems (good things)
+btw, that somehow is still in my brain (do more things like that?)
+compare those systems
+what tools to we have to compare algorithmic approaches in AI
+
+would a fuzzy boundary (what level) and a probabilistic image segmentation (what level) task be the same? (at what level)
+
+svms
+approximations solomonoff's theory
+polynomial find given points algorithm
+more papers on dp folder
+small world networks https://pubmed.ncbi.nlm.nih.gov/17079517/
+reptile (MAML)
+mathematical grounding for anns (what does that mean?)
+https://arxiv.org/pdf/2009.10713.pdf
+
+experimentation reflection - https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf
+
+very nice blog - https://lilianweng.github.io
