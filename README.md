@@ -7,3 +7,9 @@ C. Elegans is the only organism to have it's connectome fully mapped and serves 
 
 
 This repo are my semi-organized thoughts and research on this model organism, including its simulation and morphology.
+
+# C Elegans notes
+notes.txt -> Notes on C. Elegans overall (morphology, databases, simulation, etc...)
+
+# Neuroscience notes
+ neuro.txt -> Notes on neuroscience and some electricity physics.
